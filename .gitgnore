@@ -65,3 +65,15 @@ env/
 dmypy.json
 .pyre/
 .pyright/
+.pytestcache/
+_pycache/
+*.py[cod]
+coverage/
+.coverage
+htmlcov/
+pytest-debug.log
+.env
+.venv
+venv/
+ENV/
+env/
