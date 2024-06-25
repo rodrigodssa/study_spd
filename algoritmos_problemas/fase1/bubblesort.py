@@ -1,5 +1,5 @@
 
-# Programa Python otimizado para a implementação do Bubble Sort
+
 
 
 def bubbleSort(arr):
@@ -33,4 +33,4 @@ if __name__ == "__main__":
     for i in range(len(arr)):
         print("%d" % arr[i], end=" ")
 
-# Este código foi modificado por Suraj Krushna Yadav
+
