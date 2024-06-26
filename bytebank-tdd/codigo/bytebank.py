@@ -42,5 +42,6 @@ class Funcionario:
             raise Exception('O salario é muito alto para receber um bonus')
         return valor
 
+
     def __str__(self):
         return f'Funcionario({self._nome}, {self._data_nascimento}, {self._salario})'
