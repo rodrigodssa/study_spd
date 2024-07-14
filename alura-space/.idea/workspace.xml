@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6526c624-0df8-4da6-843c-8e0e50bc246a" name="Changes" comment="docs: modified">
-      <change afterPath="$PROJECT_DIR$/templates/galeria/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/galeria/partials/_footer.html" afterDir="false" />
+    <list default="true" id="6526c624-0df8-4da6-843c-8e0e50bc246a" name="Changes" comment="feat: add  _footer.html base.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/galeria/imagem.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/galeria/imagem.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/galeria/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/galeria/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720210529853</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="feat: add  _footer.html base.html">
+      <option name="closed" value="true" />
+      <created>1720213044400</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1720213044400</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,6 +231,7 @@
     <MESSAGE value="feat: adc imagem.html" />
     <MESSAGE value="docs: add urls.py views.py workspace.xml" />
     <MESSAGE value="docs: modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: modified" />
+    <MESSAGE value="feat: add  _footer.html base.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add  _footer.html base.html" />
   </component>
 </project>
