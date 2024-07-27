@@ -45,8 +45,8 @@ Este repositório contém materiais e exemplos desenvolvidos durante o período 
 
 ## Linguagem de Estudo
 
-Atualmente, estamos focados no estudo de **Python**, desenvolvendo projetos e testes automatizados para aperfeiçoar nossas habilidades práticas e teóricas.
+Atualmente, estou focado no estudo de **Python**, desenvolvendo projetos e testes automatizados para aperfeiçoar minhas habilidades práticas e teóricas.
 
 ---
 
-Esperamos que este repositório seja uma fonte valiosa de conhecimento e um registro do nosso progresso ao longo desta mentoria.
+Espero que este repositório seja uma fonte valiosa de conhecimento e um registro do meu progresso ao longo desta mentoria.
