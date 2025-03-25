@@ -28,14 +28,15 @@ Este repositório contém materiais e exemplos desenvolvidos durante o período 
 
 ## Tecnologias e Ferramentas
 
+- Python
+- Django
 - Git
 - Github
 - Gitflow
-- Ruby
 - Linux
+- MacOs
 - Terminal
 - Jetbrains IDE
-- Ruby on Rails
 - Heroku
 - AWS
 - Slack
