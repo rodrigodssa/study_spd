@@ -1,6 +1,6 @@
 # Study_SPD
 
-Este repositório contém materiais e exemplos desenvolvidos durante o período de mentoria com Marco Castro da DesenvolvendoMe. Nossa equipe tem a oportunidade de adquirir e aperfeiçoar habilidades em várias áreas, incluindo Hard Skills, Soft Skills, Mindset e Inteligência Emocional. Abaixo, seguem alguns exemplos dessas habilidades e tecnologias que estamos aprendendo e utilizando.
+Este repositório contém materiais e exemplos desenvolvidos durante o período de mentoria com Marco Castro da DesenvolvendoMe. Nessa equipe tive a oportunidade de adquirir e aperfeiçoar habilidades em várias áreas, incluindo Hard Skills, Soft Skills, Mindset e Inteligência Emocional. Abaixo, seguem alguns exemplos dessas habilidades e tecnologias que estamos aprendendo e utilizando.
 
 ## Soft Skills
 
