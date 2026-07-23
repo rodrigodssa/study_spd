@@ -1,7 +1,10 @@
-pycache/
+# Byte-code / cache
+__pycache__/
 *.py[cod]
 *$py.class
 *.so
+
+# Distribuição / empacotamento
 .Python
 build/
 develop-eggs/
@@ -21,59 +24,77 @@ share/python-wheels/
 *.egg
 MANIFEST
 *.manifest
-.spec
+*.spec
+target/
 pip-log.txt
 pip-delete-this-directory.txt
+
+# Testes e cobertura
 htmlcov/
+coverage/
+coverage_relatorio_html/
 .tox/
 .nox/
 .coverage
-.coverage.
+.coverage.*
 .cache
 nosetests.xml
 coverage.xml
+report.xml
 *.cover
 *.py,cover
 .hypothesis/
 .pytest_cache/
 pytest-debug.log
+
+# Traduções
 *.mo
 *.pot
+
+# Django
 *.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+media/
+
+# Flask / Scrapy
 instance/
 .webassets-cache
 .scrapy
+
+# Documentação
 docs/_build/
-target/
+/site
+
+# Notebooks
 .ipynb_checkpoints
 profile_default/
 ipython_config.py
+
+# Ambientes virtuais e variáveis
 .python-version
 .env
 .venv
 venv/
 ENV/
 env/
-.spyderproject
-.ropeproject
-/site
+
+# Type checkers e linters
 .mypy_cache/
 .dmypy.json
 dmypy.json
 .pyre/
 .pyright/
-.pytestcache/
-_pycache/
-*.py[cod]
-coverage/
-.coverage
-htmlcov/
-pytest-debug.log
-.env
-.venv
-venv/
-ENV/
-env/
+.ruff_cache/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.spyderproject
+.ropeproject
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

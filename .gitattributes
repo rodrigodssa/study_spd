@@ -1,0 +1,3 @@
+# Estáticos do Django Admin (saída de collectstatic) são código de terceiros
+# e não devem contar na estatística de linguagens do repositório.
+alura-space/static/admin/** linguist-vendored
