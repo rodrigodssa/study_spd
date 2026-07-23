@@ -1,8 +1,8 @@
 # Study_SPD
 
 [![Python](https://img.shields.io/badge/Python-3.12-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-5.0.6-092e20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![pytest](https://img.shields.io/badge/pytest-8.2.2-0a9edc?style=flat-square&logo=pytest&logoColor=white)](https://docs.pytest.org/)
+[![Django](https://img.shields.io/badge/Django-5.2.16_LTS-092e20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![pytest](https://img.shields.io/badge/pytest-9.1.1-0a9edc?style=flat-square&logo=pytest&logoColor=white)](https://docs.pytest.org/)
 
 Repositório de estudos desenvolvido durante o programa de mentoria com **Marco Castro (DesenvolvendoMe)**. Reúne os exercícios, projetos e testes automatizados produzidos ao longo da formação, com foco em **Python**, **testes automatizados** e **boas práticas de desenvolvimento**.
 
