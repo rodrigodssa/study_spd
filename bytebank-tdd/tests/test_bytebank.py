@@ -1,11 +1,13 @@
+from datetime import date
+
 from codigo.bytebank import Funcionario
 import pytest
 from pytest import mark
 # 1 primeiro test:
 class TestClass:
-    def test_quando_idade_recebe_13_03_2000_deve_retornar_24(self):
-        entrada = '13/03/2000' # Given- contexto
-        esperado = 24
+    def test_quando_idade_recebe_nascimento_ha_24_anos_deve_retornar_24(self):
+        esperado = 24 # Given- contexto
+        entrada = f'13/03/{date.today().year - esperado}'
 
         funcionario_teste = Funcionario('Teste', entrada, 1111)
         resultado = funcionario_teste.idade # When-ação
